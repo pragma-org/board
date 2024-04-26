@@ -2,21 +2,28 @@
 
 Please feel free to add items to this list.
 
-## Organizational
-
+## Priorities to be discussed ASAP (Next review before board meeting)
+- How often do we meet?
+- How do we manage the open items / the inflow of information we expect to settle?
+- Should we prepare a template for board reports? What should be in it? Where to store board reports?
+- Do we need a code of conduct?
+- Do we have a bank account? If not, who is establishing it? (Check with Kaj)
+- Who is monitoring/maintaining the treasury, should we designate a person from the board with it?
 - Establish communication channel that can have a long term archived (email list, archival of discord chats etc.)
 - Establish contact list of board members
+- Should we maintain a blog for news around our projects? / When should we start focusing on Marketing ? (Damien : Q3 2024 with Amaru demos & Feedback on the structure of Pragma > Board + Routines + Guidelines)
+
+
+## Organizational
 - (Public) calendar of meetings
-- How to reach out to projects?
-- How to keep oversight about people with write access? Should we maintain a public committers list?
-- Should we prepare a template for board reports? What should be in it? Where to store board reports?
 - How to backup our source code to keep independence from GitHub low?
 - Do we support the GDPR/CCPA etc. pp. on our websites, but also for our committers?
 - How to protect PRAGMA trademarks?
 - How to enforce DCO for projects?
 - How to support CCLAs (software grants from companies)?
 - Create a list of infrastructure providers/owned infrastructure
-- Do we need a code of conduct?
+- How to reach out to projects?
+- How to keep oversight about people with write access? Should we maintain a public committers list?
 
 ## Philosophy
 
@@ -30,9 +37,7 @@ Please feel free to add items to this list.
 
 ## Treasury
 
-- Do we have a bank account? If not, who is establishing it? 
 - Where to store treasury data, as bank statements?
-- Who is monitoring/maintaining the treasury, should we designate a person from the board with it?
 
 ## Marketing
 
@@ -49,5 +54,5 @@ Please feel free to add items to this list.
 ## Incubation
 
 - Define entry criteria for incubating projects
-    - Does a community need to exist before it enters incubation?
+  - Does a community need to exist before it enters incubation?
 - Define exit criteria for incubating projects (into the foundation but also for failed incubations)
