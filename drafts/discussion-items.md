@@ -7,12 +7,17 @@ Please feel free to add items to this list.
 - How do we manage the open items / the inflow of information we expect to settle?
 - Should we prepare a template for board reports? What should be in it? Where to store board reports?
 - Do we need a code of conduct?
-- Do we have a bank account? If not, who is establishing it? (Check with Kaj)
 - Who is monitoring/maintaining the treasury, should we designate a person from the board with it?
 - Establish communication channel that can have a long term archived (email list, archival of discord chats etc.)
 - Establish contact list of board members
 - Should we maintain a blog for news around our projects? / When should we start focusing on Marketing ? (Damien : Q3 2024 with Amaru demos & Feedback on the structure of Pragma > Board + Routines + Guidelines)
 
+## Legalese and Treasury
+- Do we have a bank account? If not, who is establishing it? (Check with Kaj)
+- gather, review and sign-off / amend quotes from services providers (check with Damien, he should have all quotes (Prins (IP), Wadsack (accounting), Probst Partner (corporate)
+- once bank account is opened - send membership invoices to founding members
+- Where to store treasury data, as bank statements? (proposal Kaj: github)
+- where and when to store physical documentation? (proposal Kaj: digital first as general rule; only store if required or highly recommended; where: Probst Partner)
 
 ## Organizational
 - (Public) calendar of meetings
@@ -34,10 +39,6 @@ Please feel free to add items to this list.
 - Do we have a Meritocracy?
 - What license is the board recommending/enforcing on projects?
 - How to establish an "ethics" document, that separates us from scam/meme coin etc?
-
-## Treasury
-
-- Where to store treasury data, as bank statements?
 
 ## Marketing
 
