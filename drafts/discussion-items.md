@@ -3,14 +3,49 @@
 Please feel free to add items to this list.
 
 ## Priorities to be discussed ASAP (Next review before board meeting)
-- How often do we meet?
+- How often do we meet? > Quarterly meetings (Board decision making -official)
+  > Monthly meeting : formal review of proposals and open items
+  > Asynchronous reviews of documents/open points
+  
 - How do we manage the open items / the inflow of information we expect to settle?
+  > List of open items as input for the "open items board"
+  > Use the Kanban board view to materilize the discussions (one for the official board agenda/decisions and one for the open item list status)
+
+- How do we manage the deliverables
+  > Proposal file (deliverable) - to be stored on Github
+  > Reviewed during the monthly meeting
+  > To be decided by the board meeting if it's receivable or not
+  > Then to be communicated (Public on Github, Website article...)
+  > ex: "How to do a release" "What to include in the documentation of a release" 
+
 - Should we prepare a template for board reports? What should be in it? Where to store board reports?
+  > Process for board meeting (Agenda sent in advance > Roll call; Review of the reports 
+  > Proposal to be reviewed for meetings rules & open items lists reviews / progress report 
+  
 - Do we need a code of conduct?
+  > Yes
+  > Proposal to formalise the rules and the recommendations
+  > What does "open source" means as responsibilities // what is the "PRAGMA WAY"
+ 
 - Who is monitoring/maintaining the treasury, should we designate a person from the board with it?
+  > Volunteer : Damien
+  > Toolings / documents / procedures regarding money management (overseeing the activities regarding finances)
+  
 - Establish communication channel that can have a long term archived (email list, archival of discord chats etc.)
+  > Archival of proposals is a must (initial state, evolutions)
+  > Conversations should be done in Discord for now
+
 - Establish contact list of board members
-- Should we maintain a blog for news around our projects? / When should we start focusing on Marketing ? (Damien : Q3 2024 with Amaru demos & Feedback on the structure of Pragma > Board + Routines + Guidelines)
+  > Email / Phone Number / Discord Handle
+  > To be done by Damien 
+  
+- Should we maintain a blog for news around our projects? / When should we start focusing on Marketing ?
+  > Q3 2024 with Amaru demos & Feedback to be public
+  > Pragma structure to be formalised in articles > Board + Routines + Pragma Way + Rules for maintainers...
+  > Twitter communication with Board approuval (one password, one account)
+  > Website articles to be managed with Board approuval (one passoword, one account)
+  > Any account directly linked to Pragma to be shared among board members 
+  
 
 ## Legalese and Treasury
 - Do we have a bank account? If not, who is establishing it? (Check with Kaj)
