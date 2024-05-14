@@ -22,7 +22,7 @@ Please feel free to add items to this list.
   > Process for board meeting (Agenda sent in advance > Roll call; Review of the reports 
   > Proposal to be reviewed for meetings rules & open items lists reviews / progress report 
   
-- Do we need a code of conduct?
+- Do we need a code of conduct? / What are the Pragma Values & Standards?
   > Yes
   > Proposal to formalise the rules and the recommendations
   > What does "open source" means as responsibilities // what is the "PRAGMA WAY"
