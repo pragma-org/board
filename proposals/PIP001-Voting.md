@@ -25,20 +25,18 @@ Board members cannot vote on or veto code modifications.
 
 ## Maintainer Committees
 
-Maintainers have binding votes on all types of votes for the committee they are
-invited to.
+Maintainers have binding votes on all types of votes for the committee to which they are invited.
 
 Maintainers cannot veto board decisions on procedures.
 
 ## Binding votes
 
 Board members have binding votes on boards. Others are free to vote, but their
-vote is only for informal purposes and consensous seeking.
+vote is only for informal purposes and consensus-seeking.
 
-Maintainer committee members have binding votes on all matters of their projects.
-Contributors, with or without write access, who were not formally invited to
-the maintainer committee do not have binding votes. Their votes are only 
-for informal purposes and consensous seeking.
+Maintainer committee members have binding votes on all matters related to their projects.
+With or without write access, contributors who were not formally invited to the maintainer committee do not have binding votes. 
+Their votes are only for informal purposes and consensus-seeking.
 
 ## How to vote
 
@@ -48,9 +46,7 @@ A vote can be done on any medium that can be archived:
 - on the blockchain
 - as a GitHub file
 
-As long as there is no other infrastructure available, a vote can be done
-in the form of a proposal file, that is "signed" by affected parties with 
-committing their own name below that file.
+As long as no other infrastructure is available, a vote can be done in the form of a proposal file "signed" by affected parties with their name below that file.
 
 ## Expressions
 
@@ -62,15 +58,14 @@ Votes can be represented with +1 and -1.
 
 ### Votes on code modifications
 
-Code modifications should usually have consensous and not require any voting.
-If voting is required for a project, a single -1 vote will invalidate 
-the proposal made. The proposal passes, if only +1 votes are cast.
+Code modifications should usually have consensus and not require any voting.
+If voting is required for a project, a single -1 vote will invalidate the proposal. The proposal passes if only +1 votes are cast.
 
 A vote should be open for 72h.
 
 ### Votes on releases
 
-Releases always require a vote. Majority approval is used, at least three 
+Releases always require a vote. Majority approval is used; at least three 
 maintainer committee members must vote +1.
 
 Releases cannot be vetoed.
@@ -81,15 +76,14 @@ If a maintainer committee wants to add a new person to the project,
 a vote is required. The vote shall be held in private. The vote will pass
 when every voting maintainer committee member is in favor.
 
-The vote should be open for 72h.
+The vote should be open for 72 hours.
 
-After a succcessful vote, the board needs to be informed. Before officially inviting
-the person to the maintainer committee, 48h must pass.
+After a successful vote, the board needs to be informed. Before officially inviting
+the person to the maintainer committee, 48 hours must pass.
 
 ### Board votes
 
-All decisions made by the board must be voted on. Majority approval is used,
-at least three board members must vote +1.
+All decisions made by the board must be voted on. Majority approval is used; at least three board members must vote +1.
 
 ## Comments
 
