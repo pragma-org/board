@@ -51,7 +51,10 @@ Please feel free to add items to this list.
 - Do we have a bank account? If not, who is establishing it? (Check with Kaj)
   > documentation uploaded to board-documents (overview of application plus "PoA" document (though not really a Power of Attorney)
   > please review the application document whether you are happy with that
-  > for the PoA document currently missing following information: who are legally the ultimate owners of the five founding members? Please send the following details to Kaj (kaj.seidl-nussbaumer@probstpartner.ch):
+  > for the PoA document currently missing following information:
+    (1) who are legally the ultimate owners of the five founding members? and
+    (2) full details on the Board members
+  > Please send the following details for (1) and (2) above to Kaj (kaj.seidl-nussbaumer@probstpartner.ch):
     > Family name
     > First name
     > Date of birth (DD/MM/YY)
