@@ -49,6 +49,18 @@ Please feel free to add items to this list.
 
 ## Legalese and Treasury
 - Do we have a bank account? If not, who is establishing it? (Check with Kaj)
+  > documentation uploaded to board-documents (overview of application plus "PoA" document (though not really a Power of Attorney)
+  > please review the application document whether you are happy with that
+  > for the PoA document currently missing following information: who are legally the ultimate owners of the five founding members? Please send the following details to Kaj (kaj.seidl-nussbaumer@probstpartner.ch):
+    > Family name
+    > First name
+    > Date of birth (DD/MM/YY)
+    > Nationality
+    > Private domicile (incl. address - Street, No / Canton / Postalcode, city / country)
+    > Country of place of work
+    > Function (e.g. CEO, CFO, consultant)
+  > both documents will be sent to UBS for checking whether they are ready to open an account for Pragma.
+
 - gather, review and sign-off / amend quotes from services providers (check with Damien, he should have all quotes (Prins (IP), Wadsack (accounting), Probst Partner (corporate)
 - once bank account is opened - send membership invoices to founding members
 - Where to store treasury data, as bank statements? (proposal Kaj: github)
