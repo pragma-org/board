@@ -63,13 +63,6 @@ If voting is required for a project, a single -1 vote will invalidate the propos
 
 A vote should be open for 72h.
 
-### Votes on releases
-
-Releases always require a vote. Majority approval is used; at least three 
-maintainer committee members must vote +1.
-
-Releases cannot be vetoed.
-
 ### Votes on addition to the maintainer committee
 
 If a maintainer committee wants to add a new person to the project,
