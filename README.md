@@ -1,15 +1,21 @@
-## PRAGMA board members
+## PRAGMA Board members
 
-| Christina Gianelloni <br/> [@musik-c][] | Christian Grobmeier <br/> [@grobmeier][] |Daniel Gonzalez <br/> [@gonzalaga][] |  Federico Weill <br/> [@federicoweill][] | Sebastian Bode <br/> [@cleanerm5][] |
+| Christina Gianelloni <br/> [@musik-c][] | Marek Mahut <br/> [@mmahut][] |Daniel Gonzalez <br/> [@gonzalaga][] |  Federico Weill <br/> [@federicoweill][] | Sebastian Bode <br/> [@cleanerm5][] |
 | ---                               | ---                                           | ---                            | ---                            | ---                             |
 
 [@musik-c]: https://github.com/musik-c
-[@grobmeier]: https://github.com/grobmeier
+[@mmahut]: https://github.com/mmahut
 [@federicoweill]: https://github.com/federicoweill
 [@gonzalaga]: https://github.com/gonzalaga
 [@cleanerm5]: https://github.com/cleanerm5
 
-## Website information
+## PRAGMA Board Secretary
 
-Website : https://pragma.builders/
-Hosting : Cloudflare
+| Beatrice Anihiri <br/> [@opacular][] |
+| ---                             |
+
+[@opacular]: https://github.com/opacular 
+
+## Website 
+
+https://pragma.io/
