@@ -1,4 +1,9 @@
+
+# PRAGMA Administrative Board
+### Q3 2025 Quarterly Report
+
 ## 1. Executive Summary
+
 In Q3 2025, PRAGMA entered a period of operational consolidation and community expansion. The Administrative Board focused on reinforcing governance through new templates, clarified statutory processes, and active collaboration with ecosystem partners.</p>
 The quarter began with closing legacy administrative considerations, such as PRAGMA’s potential role as an “Administrator” and participation in the Oversight Committee, and pivoted toward concrete ecosystem engagement initiatives. Beatrice Anihiri was appointed Secretary, providing additional continuity and coordination across meetings and actions.</p>
 Key progress included the development of PRAGMA’s mentorship and open coding programs, the first sessions planned in collaboration with Aiken and Amaru, and preparatory steps toward the Cardano Summit and potential talks on PRAGMA governance. The Board also engaged CF Legal for review of the Probst retainer and trademark matters.</p>
@@ -60,12 +65,14 @@ With clarity on scope, growing operational maturity, and cross-organizational co
   - Established as the first GA “Value Proposition” program.
   - Hosted within the Maintainer Committee schedule to encourage continuity.
   - Additional GA volunteer participation being scheduled for future sessions.
+ 
+---
+## 5. Financial & Legal Oversight
 
 - **Trademark Oversight:**
   - Challenge on PRAGMA trademark underway with CF’s legal and financial backing.
   - Expansion of Aiken and Amaru marks to new regions deferred pending GA input.
- 
-## 5. Financial & Legal Oversight
+
   - Banking Access & Signatory Update:
   - Confirmed removal of former signatory; Swiss resident requirement maintained for compliance.
 
@@ -96,7 +103,9 @@ With clarity on scope, growing operational maturity, and cross-organizational co
 - **Board Visibility:**  
   - Christina Gianelloni represented PRAGMA in ongoing cross-organization discussions with CF and Intersect.
   - Marek Mahut continued contributions toward the Project Committee governance framework.
- 
+
+---
+
 ## 7. Strategic Outlook
 
 - **Priorities for Next Quarter:**
